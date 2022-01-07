@@ -1,0 +1,15 @@
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.csproj.AssemblyReference.cache
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.AssemblyInfoInputs.cache
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.AssemblyInfo.cs
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.csproj.CoreCompileInputs.cache
+/Users/ryangrunest/developer/dotnet/my_first_console_app/bin/Debug/net6.0/my_first_console_app
+/Users/ryangrunest/developer/dotnet/my_first_console_app/bin/Debug/net6.0/my_first_console_app.deps.json
+/Users/ryangrunest/developer/dotnet/my_first_console_app/bin/Debug/net6.0/my_first_console_app.runtimeconfig.json
+/Users/ryangrunest/developer/dotnet/my_first_console_app/bin/Debug/net6.0/my_first_console_app.dll
+/Users/ryangrunest/developer/dotnet/my_first_console_app/bin/Debug/net6.0/ref/my_first_console_app.dll
+/Users/ryangrunest/developer/dotnet/my_first_console_app/bin/Debug/net6.0/my_first_console_app.pdb
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.dll
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/ref/my_first_console_app.dll
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.pdb
+/Users/ryangrunest/developer/dotnet/my_first_console_app/obj/Debug/net6.0/my_first_console_app.genruntimeconfig.cache
